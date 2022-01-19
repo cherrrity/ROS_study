@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="ros_node3" type="ros_node3" name="node3"/>
+	<node pkg="ros_node3" type="ros_node4" name="node4"/>	
+	<node pkg="ros_node3" type="ros_node5" name="node5"/>	
+</launch>
