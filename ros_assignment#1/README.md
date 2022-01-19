@@ -4,7 +4,11 @@
 
 아래 조건을 만족하고 메세지의 흐름이 다음과 같은 ROS 구조를 설계해 보아라.
 
-[조건]
+![myfile](https://github.com/cherrrity/ROS_study/blob/main/ros_assignment%231/rqt_graph.png)
+![myfile](https://github.com/cherrrity/ROS_study/blob/main/ros_assignment%231/ros_assignment%231.gif?raw=truede2ee5b.gif)
+
+
+### [조건]
 * 같은 패키지에 여러개의 노드를 생성할 때는 launch 파일을 작성할 것.
 * 패키지의 이름은 ros_node노드번호 ex) ros_node0, ros_node1...
 * 커스텀 메시지 파일 이름은 message메세지번호 ex) message0, message1...
