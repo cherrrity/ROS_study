@@ -53,4 +53,4 @@ header
 float64 frandom3 (Node2에서 받은 실수 frandom2에 1000을 곱하여 출력)
 ~~~
 ---
-문제 출저_ 숙명여자대학교 정보인 @정보인
+문제 출저_ 숙명여자대학교 [@정보인](https://github.com/boing-86)
